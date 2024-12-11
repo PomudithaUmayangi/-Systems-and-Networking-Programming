@@ -1,6 +1,8 @@
 
 🌐 Secure Network Programming Project
-Welcome to the Secure Network Programming Project! This repository showcases a comprehensive implementation of tasks related to system and network programming, with a strong focus on securing a Linux-based environment. From automating daily operations to configuring robust network services, this project is packed with valuable learning.
+
+Welcome to the Secure Network Programming Project!
+This repository showcases a comprehensive implementation of tasks related to system and network programming, with a strong focus on securing a Linux-based environment. From automating daily operations to configuring robust network services, this project is packed with valuable learning.
 
 📖 Project Overview
 This project is part of the IE2012 – Systems and Network Programming module for the B.Sc. (Hons) in Information Technology specializing in Cyber Security at SLIIT. It demonstrates practical skills in:
